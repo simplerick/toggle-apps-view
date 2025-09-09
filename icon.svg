@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background is transparent on purpose -->
+  <!-- App tile -->
+  <rect x="32" y="32" width="448" height="448" rx="56" fill="#E9ECEF"/>
+
+  <!-- Toggle (top row) -->
+  <rect x="120" y="128" width="272" height="112" rx="56" fill="#1c82f0"/>
+  <circle cx="336" cy="184" r="44" fill="#FFFFFF"/>
+
+
+  <!-- Bottom row dots -->
+  <circle cx="176" cy="336" r="56" fill="#FF6B8A"/>
+  <circle cx="338" cy="336" r="56" fill="#2CB8B3"/>
+</svg>

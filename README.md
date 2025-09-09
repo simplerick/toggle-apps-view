@@ -1,7 +1,13 @@
-![ESC key](esc.png?raw=true) 
+<img src="icon.png" alt="toggle-apps-view" width="128"/>
 
-# ESCape Overview
+# Toggle Apps View
 
-Gnome extension to close overview by pressing ESC key only once.
+A GNOME Shell extension that makes leaving the applications view or overview faster:
 
-The default gnome-shell behaviour is, during first ESC press, clean the searchbox, then second ESC press get back to Activities overview and then third ESC press will finally close the overview.
+- Use the **`Show all apps`** shortcut as a real toggle: pressing it again immediately closes the apps grid.
+- Press **`Esc`** once to close the overview (if search is active, Esc clears it first).
+
+To restore default behavior you need to disable extension and reload session.
+
+## Acknowledgements
+The extension is based on "escape-overview" extension by "raelgc".
