@@ -10,4 +10,4 @@ A GNOME Shell extension that makes leaving the applications view or overview fas
 To restore default behavior you need to disable extension and reload session.
 
 ## Acknowledgements
-The extension is based on "escape-overview" extension by "raelgc".
+The extension is based on ["escape-overview"](https://github.com/raelgc/escape-overview) extension by "raelgc".
